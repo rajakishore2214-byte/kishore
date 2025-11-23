@@ -46,7 +46,6 @@ and using AI workflows that help brands rank, convert & scale.
 - WordPress speed & performance optimization  
 - AI-driven SEO automation  
 - Lead generation funnels  
-- Firebase hosting & deployments  
 
 ---
 
